@@ -5,7 +5,7 @@ Applied Programming student in Sofia, Bulgaria, focused on C# and .NET. I build 
 </p>
 
 <p align="center">
-I work with Docker, AWS (EC2, AMI, RDS, load balancing), and MySQL, and I tend to my homelab when it inevitably fails.
+I work with Docker, AWS, and I tend to my homelab when it inevitably fails.
 </p>
 
 ---
