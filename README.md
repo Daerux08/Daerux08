@@ -12,18 +12,23 @@ I work with Docker, AWS (EC2, AMI, RDS, load balancing), and MySQL, and I tend t
 
 <h3 align="center">Skills</h3>
 <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,arduino,mysql,latex&theme=light" />
-    </br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,aws,git&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" title="C#" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=light" title=".NET" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light" title="Arduino" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=latex&theme=light" title="LaTeX" alt="LaTeX" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" title="AWS" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git" />
 </p>
 
 <h3 align="center">Editors</h3>
 <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="Visual Studio" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" />
 </p>
 
 ---
