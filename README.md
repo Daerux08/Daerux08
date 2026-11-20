@@ -34,5 +34,5 @@ I work with Docker, AWS, Databases, and I tend to my homelab when it inevitably 
 ---
 
 <p align="center">
-<i>Portfolio: <a href="https://alex.clickdot.bg/">alex.clickdot.bg</a></i>
+<i>Portfolio: <a href="https://cv.alexkozlov.eu/">https://cv.alexkozlov.eu/</a></i>
 </p>
